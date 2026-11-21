@@ -69,7 +69,6 @@ Hardware/
 ├── Turret_Driver/   Altium project (.PrjPcb, .SchDoc, .PcbDoc), schematic PDF, BOM, Fabrication/ gerbers
 ├── PI_Board/        same structure
 ├── PIR_Board/       same structure
-├── Design_Rules/    PCBWay design-rule file used for DRC
 └── images/          Top/bottom renders generated from the fabrication gerbers
 ```
 

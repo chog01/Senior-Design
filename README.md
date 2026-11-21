@@ -6,7 +6,7 @@ Garden Sentry: a senior design project that detects deer and small animals with 
 | Folder | Contents |
 |---|---|
 | [Hardware/](Hardware/) | Altium PCB projects for the turret main board, Pi camera/IR board, and PIR wake board, with schematics, BOMs, gerbers, and board renders |
-| [Docs/](Docs/) | [Design decisions](Docs/Design_Decisions.md): key engineering choices and trade-offs |
+| [Docs/](Docs/) | [Design decisions](Docs/Design_Decisions.md) and [schematic PDFs](Docs/Schematics/) for all three boards |
 | [Mechanical/](Mechanical/) | SolidWorks models of the pan/tilt turret, sensor mounts, and test base |
 | [TestCode/](TestCode/) | Bring-up and test firmware (Teensy 4.0, PlatformIO) |
 
