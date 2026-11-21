@@ -51,7 +51,7 @@ Files: [schematic PDF](Turret_Driver/Main_V1_Schematic.pdf) · [BOM](Turret_Driv
 - Six OSRAM SFH 4554 850 nm IR LEDs ring the camera, switched by an IRLML0060 MOSFET from a Pi GPIO
 - 8-pin Molex link back to the main board for power and UART
 
-Files: [BOM](PI_Board/PI_BOM.xlsx) · [gerbers](PI_Board/Fabrication/PI_V1_Gerbers.zip) · [bottom view](images/PI_V1_bottom.png)
+Files: [schematic PDF](PI_Board/PI_V1_Schematic.pdf) · [BOM](PI_Board/PI_BOM.xlsx) · [gerbers](PI_Board/Fabrication/PI_V1_Gerbers.zip) · [bottom view](images/PI_V1_bottom.png)
 
 ## PIR_Board
 
@@ -60,7 +60,7 @@ Files: [BOM](PI_Board/PI_BOM.xlsx) · [gerbers](PI_Board/Fabrication/PI_V1_Gerbe
 - BS612 PIR sensor with a trimmer for sensitivity adjustment
 - 3-pin JST-PH cable to the main board
 
-Files: [BOM](PIR_Board/PIR_BOM.xlsx) · [gerbers](PIR_Board/Fabrication/PIR_V1_Gerbers.zip) · [bottom view](images/PIR_V1_bottom.png)
+Files: [schematic PDF](PIR_Board/PIR_V1_Schematic.pdf) · [BOM](PIR_Board/PIR_BOM.xlsx) · [gerbers](PIR_Board/Fabrication/PIR_V1_Gerbers.zip) · [bottom view](images/PIR_V1_bottom.png)
 
 ## Repository layout
 
