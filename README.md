@@ -11,3 +11,14 @@ Garden Sentry: a senior design project that detects deer and small animals with 
 | [TestCode/](TestCode/) | Bring-up and test firmware (Teensy 4.0, PlatformIO) |
 
 ![Turret_Driver V1](Hardware/images/Main_V1_top.png)
+
+## License
+
+| Part | License |
+|---|---|
+| Firmware and code (`TestCode/`) | [MIT](LICENSE) |
+| Hardware, mechanical, and documentation (`Hardware/`, `Mechanical/`, `Docs/`) | [CERN-OHL-P v2](LICENSE-HARDWARE) |
+
+Third-party code keeps its original license: the bundled [TMCStepper](https://github.com/teemuatlut/TMCStepper) library in `TestCode/Stepper Driver/lib/` is © teemuatlut, MIT License.
+
+Copyright © 2026 Noah Marchman
